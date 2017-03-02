@@ -1,5 +1,5 @@
 # LanguageDetectionRNN
-This project uses Recurrent Neural Networks constructed from the TensorFlow toolkit to build models for language identification.
+This project uses a Recurrent Neural Network (RNN) constructed from the TensorFlow toolkit to build models for language identification.
 ### Files
 * AlphaBase.py - A class for representing the characters of a set of languages.
 * LanguageSource.py - A class that acts as a source of training data.
